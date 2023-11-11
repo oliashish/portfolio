@@ -1,0 +1,85 @@
+baseurl = "http://www.example.com"
+title = "Ashish Oli"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+disqusShortname = "oli"
+
+[markup.highlight]
+style = "monokai"
+
+[params]
+  author = "Ashish Oli"
+  info = "Full Stack DevOps and Magician"
+  description = "John Doe's personal website"
+  keywords = "blog,developer,personal"
+  avatarurl = "./images/profile.jpg"
+  #gravatar = "john.doe@example.com"
+
+  faviconSVG = "/img/favicon.svg"
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/oliashish/"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 3
+  url = "https://twitter.com/oli___0001"
+[[params.social]]
+  name = "Linkedin"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 1
+  url = "https://www.linkedin.com/in/oliashish/"
+[[params.social]]
+  name = "Stack Overflow"
+  icon = "fa fa-stack-overflow fa-2x"
+  weight = 2
+  url = "https://stackoverflow.com/users/12818622/ashish"
+[[params.social]]
+  name = "Medium"
+  icon = "fa fa-medium fa-2x"
+  weight = 3
+  url = "https://medium.com/@oliashish3"
+
+# Menu links
+[[menu.main]]
+  name = "Blog"
+  weight = 4
+  url  = "blogs/"
+[[menu.main]]
+  name = "About"
+  weight = 1
+  url = "about/"
+[[menu.main]]
+  name = "Projects"
+  weight = 3
+  url = "projects/"
+[[menu.main]]
+  name = "Experience"
+  weight = 2
+  url = "experience/"
