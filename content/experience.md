@@ -6,12 +6,12 @@ Tools and techonologies I learned throughout my journey of development and engin
 1. **Langauges** - Rust, Python, Go, Javascript, HTML, CSS
 2. **Frameworks** - Axum, Nodejs(Express), Gin, fiber, React, JSX, Tailwind, Bootstrap, SCSS
 3. **Cloud** - AWS, Digital Ocean, Kuberenetes, Docker, Monitoring and observability, CI/CD, DevOps, Terraform
-4. **Databases** - Postgres, MongoDB, DynamoDB, Redis
+4. **Databases** - Postgres, MongoDB, DynamoDB, Redis, MySQL
 5. **Message** Queue - RabbitMQ
 6. **OS** - Linux (Ubuntu 22.04)
 7. **Version** control - Git
 8. **Editors** - VS code, vim
-9. **Extras** - Bash Scripting, CLI applications, Publishing CLI application to various public repositories like Homebrew, AUR, Snap, Chocolatey, NPM, Deb packages. Debugging, TDD, cross compiling, Team player, Good Communication, Agile Methodology, Time Management
+9. **Extras** - REST APIs, GraphQL, Ngnix, SSH, Bash Scripting, CLI applications, Publishing CLI application to various public repositories like Homebrew, AUR, Snap, Chocolatey, NPM, Deb packages. Debugging, TDD, cross compiling, Team player, Good Communication, Agile Methodology, Time Management
 
 ### Vicara - *Software engineer*
 *02/2022 - 07/2023*
@@ -40,3 +40,15 @@ Tools and techonologies I learned throughout my journey of development and engin
 - Created the whole project from scratch for online queries and assistance
 - Help resolve customer queries over a timely manner
 - Help setup office, school and personal internet
+
+---
+
+# Education
+### Master's in Cloud Computing - *National College Of Ireland*
+*09/2023-present*
+### Bachelor's of Science - *Kumaun University, Uttarakhand, India*
+*08/2017-08/2020*
+### Senior Secondary(Intermmediate) - *Nosegay Public School, Khatima, U.S.Nagar, Uttarakhand, India*
+*04/2015-05/2017*
+### High School - *Nosegay Public School, Khatima, U.S.Nagar, Uttarakhand, India*
+*03/2014-03/2015*
